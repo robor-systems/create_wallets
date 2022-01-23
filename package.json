@@ -1,0 +1,23 @@
+{
+  "name": "wallets-polygon",
+  "version": "1.0.0",
+  "description": "creating wallets for polygon",
+  "main": "create-wallets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wallets",
+    "crypto",
+    "polygon",
+    "ethereum"
+  ],
+  "author": "danish",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "ethers": "^5.5.1",
+    "nanoid": "^3.1.30",
+    "xlsx": "^0.17.4"
+  }
+}
